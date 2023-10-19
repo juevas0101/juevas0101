@@ -2,4 +2,4 @@
 
 🚀 🌟 Always looking for the next level
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=juevas0101&show_icons=true&theme=radical)
